@@ -15,11 +15,11 @@ You can find more previews of the PSD in [this article](http://designshock.com/)
 ![](http://designshock.com/images/bootstrap/layers.jpg)
 ![](http://designshock.com/images/bootstrap/alerts.jpg)
 
-## Comunity
+## Community
 Keep track of the latest changes and news.
 
 * Read [DesignShock](http://designshock.com) blog.
-* Follow [@designshock on Twitter](http://twitter.com/).
+* Follow [@webdesignshock on Twitter](https://twitter.com/webdesignshock).
 
 
 ## Authors
