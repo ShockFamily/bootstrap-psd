@@ -29,3 +29,8 @@ This PSD is created for [this post](http://designshock.com/) in [designshock](ht
 * [DesignShock.com](http://designshock.com)
 * [ShockFamily](http://shockfamily.us)
 
+
+# Copyright And License
+
+Copyright 2013 DesignShock under [the Apache 2.0 license](LICENSE).
+
