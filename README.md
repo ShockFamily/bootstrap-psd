@@ -10,7 +10,7 @@ as those in the documentation, so that you can find everything the easiest way.
 ## Layers
 
 It is very easy to find elements, as they organized following documentation sections and components.
-You can find more previews of the PSD in [this article](http://designshock.com/).
+
 
 ![](http://designshock.com/images/bootstrap/layers.jpg)
 ![](http://designshock.com/images/bootstrap/alerts.jpg)
@@ -24,7 +24,7 @@ Keep track of the latest changes and news.
 
 ## Authors
 
-This PSD is created for [this post](http://designshock.com/) in [designshock](http://designshock.com/).
+This PSD is created at [designshock](http://designshock.com/).
 
 * [DesignShock.com](http://designshock.com)
 * [ShockFamily](http://shockfamily.us)
